@@ -33,3 +33,4 @@
 - [カナダでプログラミング未経験からキャリアチェンジしてソフトウェアエンジニアになるまでの記録](https://note.com/asucarlos/n/nd2255e5a3da6) by [@asucarlos1](https://twitter.com/asucarlos1)
 - [シンガポールで働きたいデザイナーへ](https://note.com/shihoasada/n/n48680fb2ef1d?nt=like_9298) by Shiho
 - [職場でコミュ力が上がる英語のテクニック](https://note.com/noot/n/ncd3a46c399db) by [@LangSir_Cali](https://twitter.com/LangSir_Cali)
+- [改めて、もう少し詳しいエンジニアになるまでの自己紹介](https://note.com/frontendlifeinde/n/n08d35f0e57c1) by [@arisa_dev](https://twitter.com/arisa_dev)
