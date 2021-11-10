@@ -38,4 +38,4 @@
 - [職場でコミュ力が上がる英語のテクニック](https://note.com/noot/n/ncd3a46c399db) by [@LangSir_Cali](https://twitter.com/LangSir_Cali)
 - [改めて、もう少し詳しいエンジニアになるまでの自己紹介](https://note.com/frontendlifeinde/n/n08d35f0e57c1) by [@arisa_dev](https://twitter.com/arisa_dev)
 - [海外転職への珍道中 2021（転職活動編）](https://ugliestpiece.hatenablog.com/entry/2021/09/26/031845) by ugliestpiece
-- [開発だけじゃない？私が未経験から海外でインフラエンジニアになった話](https://note.com/mikan_study_aus/n/n7ff1a78c3e20) by Takoyaki
+- [開発だけじゃない？私が未経験から海外でインフラエンジニアになった話](https://note.com/mikan_study_aus/n/n7ff1a78c3e20) by たこやきマントマン
